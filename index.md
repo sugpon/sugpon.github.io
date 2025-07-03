@@ -15,4 +15,7 @@ I’ve worked in both Level 1 and 2 support roles, performing root cause analysi
 ## What I’m Looking For
 I'm actively seeking entry-level opportunities across application support, software development, QA/testing, or technical coordination. I’m open to a variety of IT-friendly roles where I can contribute, continue learning, and grow within a collaborative team. At this stage, my goal is to get a meaningful start, to solve real problems, prove my capabilities, and build a long-term career.
 
-[View My GitHub Profile](https://github.com/sugpon)
+## Quick Links
+- [Resume](resume)
+- [Projects](projects)
+- [Contact Me](contact)
