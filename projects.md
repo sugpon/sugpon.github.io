@@ -19,5 +19,5 @@ This project highlights my ability to translate brand identity into an engaging 
 
 Technologies Used: React, HTML, CSS, JavaScript
 
-Live Demo: yuvathees-wardrobe.netlify.app 
-GitHub Repo: github.com/sugpon/unit-1-project-yuvathees-wardrobe 
+**Live Demo:** [yuvathees-wardrobe.netlify.app](https://yuvathees-wardrobe.netlify.app/)  
+**GitHub Repo:** [github.com/sugpon/unit-1-project-yuvathees-wardrobe](https://github.com/sugpon/unit-1-project-yuvathees-wardrobe)
