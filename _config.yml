@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Suganya Ponnusamy| IT Professional
+title: Suganya Ponnusamy | IT Professional
 email: suganya.sugu88@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Suganya Ponnusamy’s developer portfolio showcasing hands-on projects, coding skills, and her journey through application support and software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: sugpon
 
 # Build settings
 theme: minima
