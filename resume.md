@@ -1,6 +1,12 @@
+---
+layout: default
+title: Resume
+permalink: /resume/
+---
+
 # My Resume
 
-[Download My Resume (PDF)](resume.pdf)
+[Download My Resume (PDF)](/resume.pdf)
 
 ## Skills
 - Java, REST APIs, OOP Principles
@@ -14,3 +20,6 @@ Software Development Course (2025)
 ## Achievements
 - Built Java console apps using live APIs
 - Completed LaunchCode modules in problem solving and Agile teamwork
+
+[Back to Home](/)
+

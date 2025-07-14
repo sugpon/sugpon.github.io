@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
 # My Project
 
 ## Yuvathees Wardrobe (Official Brand Website)
@@ -21,3 +27,5 @@ Technologies Used: React, HTML, CSS, JavaScript
 
 **Live Demo:** [yuvathees-wardrobe.netlify.app](https://yuvathees-wardrobe.netlify.app/)  
 **GitHub Repo:** [github.com/sugpon/unit-1-project-yuvathees-wardrobe](https://github.com/sugpon/unit-1-project-yuvathees-wardrobe)
+
+[Back to Home](/)

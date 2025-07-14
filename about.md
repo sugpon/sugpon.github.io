@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
+title: About
 permalink: /about/
 ---
 
-## About Me
+# About Me
 
 I'm Suganya Ponnusamy — an IT professional with a passion for software development and a keen interest in coding. With a strong foundation in Java, Spring Boot, MySQL, and React, I’ve built a diverse portfolio of projects that reflect both my technical ability and my dedication to continuous learning.
 
@@ -22,19 +23,3 @@ You can reach me at:
 🔗 [LinkedIn](https://www.linkedin.com/in/suganyaponnusamy/)
 
 Let’s build something great together!
-
-
-<!--
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
--->
