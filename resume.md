@@ -3,6 +3,7 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
+[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
 
 # My Resume
 
@@ -21,5 +22,5 @@ Software Development Course (2025)
 - Built Java console apps using live APIs
 - Completed LaunchCode modules in problem solving and Agile teamwork
 
-[Back to Home](/)
+
 

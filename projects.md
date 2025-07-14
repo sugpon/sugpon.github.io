@@ -3,8 +3,9 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
+[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
 
-# My Project
+# Projects
 
 ## Yuvathees Wardrobe (Official Brand Website)
 Yuvathees Wardrobe is a well-established Indian ethnic wear brand offering a diverse collection of traditional and contemporary sarees, readymades, and handwoven treasures paired with an imitation jewelry line accentuating the beauty of Indian attire. Serving a growing international customer base, the brand is known for authentic craftsmanship, custom tailoring, and a personalized customer experience delivered through strong social media engagement.
@@ -28,4 +29,4 @@ Technologies Used: React, HTML, CSS, JavaScript
 **Live Demo:** [yuvathees-wardrobe.netlify.app](https://yuvathees-wardrobe.netlify.app/)  
 **GitHub Repo:** [github.com/sugpon/unit-1-project-yuvathees-wardrobe](https://github.com/sugpon/unit-1-project-yuvathees-wardrobe)
 
-[Back to Home](/)
+
