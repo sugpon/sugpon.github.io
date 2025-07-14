@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
-
 # About Me
 
 I'm Suganya Ponnusamy — an IT professional with a passion for software development and a keen interest in coding. With a strong foundation in Java, Spring Boot, MySQL, and React, I’ve built a diverse portfolio of projects that reflect both my technical ability and my dedication to continuous learning.

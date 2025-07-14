@@ -1,7 +1,6 @@
 ---
 layout: default 
 ---
-[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
 
 # IT Professional & Developer
 

@@ -3,7 +3,6 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
 
 # My Resume
 

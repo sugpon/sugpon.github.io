@@ -3,7 +3,6 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-[Home](/) | [Projects](/projects/) | [Resume](/resume/) | [About](/about/)
 
 # Projects
 
