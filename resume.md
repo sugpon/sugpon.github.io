@@ -6,7 +6,7 @@ permalink: /resume/
 
 # My Resume
 
-[Download My Resume (PDF)](/resume.pdf)
+<a href="/resume.pdf" target="_blank" rel="noopener">Download My Resume (PDF)</a>
 
 ## Skills
 - Java, REST APIs, OOP Principles
